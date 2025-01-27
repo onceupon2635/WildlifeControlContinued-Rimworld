@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Wildlife Control Continued</name>
+    <author>onceupon2635, Mycellius</author>
+    <packageId>onceupon2635.WildlifeControlContinued</packageId>
+    <url>https://github.com/Mycellius/WildlifeControl</url>
+    <modVersion>1.0</modVersion>
+    <supportedVersions>
+		<li>1.5</li>
+    </supportedVersions>
+    <description>
+	Original mod by Mycellius.
+	https://steamcommunity.com/sharedfiles/filedetails/?id=3007548683
+	If the original mod author requests it, I will remove this mod.
+	
+	--
+	
+	Original mod notes (1.4):
+	Wildlife Control is a mod that allows you to limit the number of wild animals on a RimWorld map without affecting colony animals, enemy animals, or visitor animals. 
+	The mod removes excess animals once every in-game day based on their health conditions, age, and species group size. 
+	Set a maximum number of wild animals, and the mod will maintain the limit by removing animals according to the specified criteria.
+	</description>
+</ModMetaData>
